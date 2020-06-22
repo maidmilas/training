@@ -1,2 +1,1 @@
-# training
-22.06.2020
+TinDog Starting Files
